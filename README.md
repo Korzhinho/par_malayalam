@@ -1,5 +1,5 @@
 # par_malayalam
-A dataset of paraphrases in Malayalam collected for the DravidianLangTech-2024 workshop at EACL 2024.
+A dataset of paraphrases in Malayalam collected for the **DravidianLangTech-2024** workshop at **EACL 2024**.
 
 #### The Data
 The dataset consists of candidate pairs of sentences in Malayalam. Each pair has a label 1 or 0 identifying the sentences as paraphrases or not, an English translation and the confidence in the label, based on the aggregation model (see below).
