@@ -1,4 +1,4 @@
-# paraphrases_malayalam_DravidianLangTech-2024
+# par_malayalam
 A dataset of paraphrases in Malayalam collected for the DravidianLangTech-2024 workshop at EACL 2024.
 
 #### The Data
